@@ -1,6 +1,8 @@
 ## Caroline McCain's Personal Portfolio
 
 Hello! Welcome to my portfolio. I am a sophomore at William & Mary studying Computer Science and Government.  
+This website is currently a work in progress, and is being update with old and new projects over the next few weeks.  
+
 You can find information about coding projects I've done [here](https://caroline-mccain.github.io/projects).  
 My writing projects are available [here](https://caroline-mccain.github.io/writing).  
 You can learn more about me [here](https://caroline-mccain.github.io/bio).  
