@@ -15,4 +15,6 @@ Originally from Lexington, Virginia, I am a current sophomore at William & Mary.
 - W&M Student Unions & Engagement Info Desks
 
 ## Contact
-To contact me, you can reach me by [email](mailto:cfmccain@email.wm.edu) or on [LinkedIn](https://www.linkedin.com/in/caroline-mccain/).
+To contact me, you can reach me by [email](mailto:cfmccain@email.wm.edu) or on [LinkedIn](https://www.linkedin.com/in/caroline-mccain/).  
+
+[Home](https://caroline-mccain.github.io/) - [Coding](https://caroline-mccain.github.io/projects) - [Writing](https://caroline-mccain.github.io/writing) - [Bio](https://caroline-mccain.github.io/bio)
