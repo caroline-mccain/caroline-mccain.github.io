@@ -31,4 +31,6 @@ End of game, Player 1 Won:
 
 ### CSCI 301: Software Development
 
-### CSCI 303: Algorithms
+### CSCI 303: Algorithms  
+
+[Home](https://caroline-mccain.github.io/) - [Coding](https://caroline-mccain.github.io/projects) - [Writing](https://caroline-mccain.github.io/writing) - [Bio](https://caroline-mccain.github.io/bio)
