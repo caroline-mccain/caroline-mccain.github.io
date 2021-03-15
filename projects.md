@@ -5,10 +5,11 @@ This class involved a semester's long introduction to R, which was used to analy
 I focused on an analysis of Mongolia, particularly Hovsgol and Darhan-Uul.  
 My final project is viewable [on GitHub Pages](https://caroline-mccain.github.io/workshop/). The code and raw files are available [on Github](https://github.com/caroline-mccain/workshop).
 
-### CSCI 141: Computational Problem Sovling
+### CSCI 141: Computational Problem Sovling  
+This class taught fundamentals of programming and the Python programming language. Several projects were completed in class and independently, two of which are highlighted below.  
 #### Tribe Bubbles
 The final project for this class was to create a game called "Tribe Bubbles." In it, the user tries to create lines of four (or multiples of four) to score points. Each click that the player makes prompts a random blocker to be placed. The game keeps track of the player's score, the appropriate multiplier, and the blockers. I also implemented a two player version. In the two palyer version, players can block each other's moves.  
-The code for this project cannot be publicly listed due to the honor code. It utilizes PyQt5, primarily QWidget. The code relies on a 2-dimensional array, for statements, and conditionals. Since the code cannot be made public, below are screenshots of the game in action.  
+The code for this project cannot be publicly available due to the honor code. It utilizes PyQt5, primarily QWidget. The code relies on a 2-dimensional array, for statements, and conditionals. Since the code cannot be made public, below are screenshots of the game in action.  
 The Initial Gameboard:  
 <img src="TribeBubbles/InitalGameboard.jpg" alt="Inital Gameboard" width="200"/>  
 One Player Game:  
@@ -27,9 +28,24 @@ Mid game:
 End of game, Player 1 Won:  
 <img src="TribeBubbles/2PlayerEndOfGame.jpg" alt="End of Two Player Game where player 1 won" width="200"/>  
 
-### CSCI 241: Data Structures
+#### Fifteen Puzzle  
 
-### CSCI 301: Software Development
+### CSCI 241: Data Structures  
+The projects for this course centered on implementing data strctures and related algorithms. Structures and Algorithms implemented in projects include:
+- Insertion Sort
+- Selection Sort
+- Sets
+- Doubly Linked List
+- Stack
+- Queue
+- Deque (Linked List and Array implementations)
+- Binary Search Tree
+- Balanced Binary Search Tree
+
+Again, the code for these projects cannot be made public due to the honor code. The structures were all implemented in Python. Several of the later structures also had extensive unit tests coded (using unittest).  
+
+### CSCI 301: Software Development  
+
 
 ### CSCI 303: Algorithms  
 
