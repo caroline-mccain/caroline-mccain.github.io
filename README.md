@@ -1,0 +1,2 @@
+View the deployed version of my portfolio [here](https://caroline-mccain.github.io/)!
+This is a modified version of the Jackson Template, from [theme wagon](https://themewagon.com/themes/free-bootstrap-portfolio-website-template/).
